@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/platform-Linux-red">
 </a>
 </p>
-Install the <b>latest</b> version of <b>Go programming language</b> the proper way and without using Apt.
+Install the <b>latest</b> version of <b>Go programming language</b> the proper way and without using linux default installer.
 
 ## Usage
 ```
