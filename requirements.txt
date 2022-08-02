@@ -1,0 +1,5 @@
+subprocess
+pathlib
+textwrap3
+requests
+colorama
