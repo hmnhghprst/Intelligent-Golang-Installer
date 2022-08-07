@@ -14,6 +14,9 @@ Install the <b>latest</b> version of <b>Go programming language</b> the proper w
 pip3 install -r requirements.txt
 python3 igi.py
 ```
+## :warning: Warning
+* This tool won't work with Raspberry pi or any ARM based devices.
+* make backup of `.bashrc` and `.profile` files before using this tool !
 ## Why we should use this tool ?
 Whenever you want to install Go on your linux machine you probably use one of this two ways : 1- Using apt installer(Or your distribution installer),but this command usually install one of old versions of Go. 2- using several lines of complicated commands.<b>This tool will do all of that complicated works for you only with one command.</b>
 
